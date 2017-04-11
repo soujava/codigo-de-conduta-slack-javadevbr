@@ -1,14 +1,14 @@
 # codigo-de-conduta-slack-javadevbr
-Código de conduta do slack oficial brasileiro de Java, o JavaDevBR
+Código de conduta do primeiro slack oficial brasileiro sobre Java, o JavaDevBR
 
 *Esse texto é um documento em constante edição, e pode ser alterado no futuro.*
 
 --
 
-* [Código de Conduta](https://github.com/davidtcdeveloper/codigo-de-conduta/blob/master/README.md#código-de-conduta)
-* [Como participar do grupo?](https://github.com/davidtcdeveloper/codigo-de-conduta/blob/master/README.md#como-participar-do-grupo)
-* [Regras de etiqueta - Slack](https://github.com/davidtcdeveloper/codigo-de-conduta/blob/master/README.md#regras-de-etiqueta---slack)
-  * [Comandos](https://github.com/davidtcdeveloper/codigo-de-conduta/blob/master/README.md#comandos)
+* [Código de Conduta](https://github.com/soujava/codigo-de-conduta-slack-javadevbr/blob/master/README.md#código-de-conduta)
+* [Como participar do grupo?](https://github.com/soujava/codigo-de-conduta-slack-javadevbr/blob/master/README.md#como-participar-do-grupo)
+* [Regras de etiqueta - Slack](https://github.com/soujava/codigo-de-conduta-slack-javadevbr/blob/master/README.md#regras-de-etiqueta---slack)
+  * [Comandos](https://github.com/soujava/codigo-de-conduta-slack-javadevbr/codigo-de-conduta/blob/master/README.md#comandos)
   * [Dúvidas](https://github.com/soujava/codigo-de-conduta-slack-javadevbr/blob/master/README.md#dúvidas)
   * [Seja gentil](https://github.com/soujava/codigo-de-conduta-slack-javadevbr/blob/master/README.md#seja-gentil)
   * [Responsabilidade individual](https://github.com/soujava/codigo-de-conduta-slack-javadevbr/blob/master/README.md#responsabilidade-individual)
@@ -134,7 +134,7 @@ Os canais terminados em **-alerts** (#job-alerts, #channel-alerts) são para men
 A equipe de Admins se reserva o direito de controlar a configuração de bots e integrações, não sendo permitido aos demais membros ativar novas configurações de bots ou integrações. Desta forma, protegemos o grupo da criação de integrações maliciosas ou com propósitos que divergem do Java Dev BR.
 
 Principais estão integrados ao nosso Slack:
-* [Slack Achive Bot](http://slackarchive.io/): Copia todas as mensagens trocadas pelos canais públicos para um arquivo permanente, acessível através do link http://javadevbr.slackarchive.io/.
+* [Slack Archive Bot](http://slackarchive.io/): Copia todas as mensagens trocadas pelos canais públicos para um arquivo permanente, acessível através do link http://javadevbr.slackarchive.io/.
 * [Paperbot](http://paperbot.ai/): Monitora os links enviados para a geração de um portal web e e-mails de resumo diário. Desta forma, todos os links enviados por nossos membros nos canais públicos podem ser conferidos em [um portal centralizado](web.paperbot.ai). Basta logar com seu usuário do slack para ter acesso à lista de links.
 
 ### Conhecendo o Slack
