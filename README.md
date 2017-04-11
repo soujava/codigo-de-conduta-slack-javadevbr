@@ -65,12 +65,9 @@ O desrespeito às regras desta comunidade, descritas nesse documento, acarretar�
 **Se você sofrer algum tipo de abuso, assédio, discriminação, ou se sentir inseguro (a), fale com um admin.
 Essa é a lista de moderadores e seus respectivos IDs do Slack:**
 
-* **David Conceição** - @daviddeveloper
-* **Douglas Drumond** - @douglasdrumond
-* **Eduardo Bonet** - @ebonet
-* **Marcello Galhardo** - @marcellogalhardo
-* **Rodrigo Sicarelli** - @rodrigo.sicarelli
-* **Walmyr Carvalho** - @walmyrcarvalho
+* **Cesar A. Nogueira** - @cesarnog
+* **Otávio Santana** - @otaviojava
+* **Bruno Souza** - @brjavaman
 
 *A posição de admin é para fins de moderação imparcial, eles não vão moderar ou editar nada escrito no Slack, a menos que isso seja resultado de uma discussão e acordado entre todos.*
 
