@@ -20,47 +20,7 @@ Código de conduta do primeiro slack oficial brasileiro sobre Java, o JavaDevBR
 
 ## Código de Conduta
 
-O **Slack Java Dev BR** deve ser um lugar seguro e convidativo para pessoas independentemente de:
-- Gênero, identidade de gênero ou expressão de gênero
-- Orientação sexual
-- Restrições físicas
-- Aparência física (incluindo, mas não limitado, ao tamanho do corpo)
-- Etnia
-- Idade
-- Religião
-
-Como membro deste Slack, você concorda que:
-
-* Nós somos, coletivamente e individualmente, comprometidos com a segurança e inclusão.
-* Nós adotamos a política de tolerância zero para assédio, perseguições ou discriminações.
-* Nós respeitamos os limites e identidade das pessoas.
-* Nós nos abstemos de usar linguajar que possa ser considerado opressivo (sistematicamente ou não). Por exemplo: sexista, racista, homofóbico, transfóbico, classista, que discrimine deficientes, etc. - Isso inclui (mas não se limita a) vários outros insultos.
-* Nós evitamos tópicos ofensivos como forma de humor.
-* Nós evitamos assuntos que remetem a sexo.
-* Nós não toleramos pirataria e violação dos termos de uso de outros softwares e serviços.
-
-Nós trabalhamos ativamente para:
-
-* Ser uma comunidade segura.
-* Cultivar uma rede de suporte e encorajamento para todos.
-* Encorajar variadas formas de expressão de maneira responsável.
-
-Nós condenamos:
-
-* Perseguição, "doxxing" (investigar a vida de uma pessoa sem autorização) ou publicações indevidas de informações privadas.
-* Ameaças de todos os tipos e assédio.
-* Qualquer comportamento que comprometa a segurança dos demais membros.
-
-**Essas atitudes NÃO SÃO CORRETAS**
-
-Se você disser alguma coisa que é considerada ofensiva e for chamado a atenção, é importante:
-
-* Ouvir, sem interromper.
-* Acreditar no que a pessoa está dizendo e não tentar desqualificar o que ela tem a dizer.
-* Pedir dicas ou ajuda para evitar ofensas futuras.
-* Entender seu erro e saber pedir desculpas.
-
-O desrespeito às regras desta comunidade, descritas nesse documento, acarretará em consequências. Para infrações pequenas, você talvez possa ser suspenso temporariamente do Slack. Em caso de reincidência, ou se a comunidade acreditar que você não está agindo de boa fé, você poderá ser banido permanentemente.
+Nossa comunidade tem como objetivo reunir os interessados na plataforma Java e incentivar o debate a respeito de inovações e melhorias nela além de possibilitar a troca de experiências e conhecimentos entre seus membros. Contudo, o Slack Java Dev BR não se responsabiliza pelas ações de seus membros e espera que todos tenham uma atitude ética e responsável resguardandos-se do direito de remover conteúdo inapropriado e membros em desacordo com ações éticas. 
 
 **Se você sofrer algum tipo de abuso, assédio, discriminação, ou se sentir inseguro (a), fale com um admin.
 Essa é a lista de moderadores e seus respectivos IDs do Slack:**
