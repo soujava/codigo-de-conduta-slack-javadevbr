@@ -39,7 +39,7 @@ Não é necessária nenhuma experiência prévia com Java, mas é importante dei
 Mensagens com cunho unicamente publicitário, sejam propagandas de aplicativos ou empresas não serão permitidas.
 É dever de todos os membros ativos acompanhar e reportar, sempre que possível, para um dos administradores quaisquer mensagens suspeitas ou que violem as regras do grupo, bem como apontar possíveis melhorias e ajustes neste Código de Conduta.
 
-Dessa forma, entendendo o que foi descrito acima, caso você se sinta confortável em participar do grupo, acesse o link abaixo e peça o seu convite:
+Dessa forma, entendendo o que foi descrito acima, caso você se sinta confortável em participar ou convidar alguém para participar do grupo, acesse o link abaixo e peça o seu convite:
 
 [http://javadevbr.herokuapp.com](http://javadevbr.herokuapp.com)
 
@@ -54,6 +54,8 @@ Em caso de dúvida sobre como usar o Slack ou algum comando específico, procure
 ### Dúvidas
 
 Antes de fazer alguma pergunta, tire um tempo e pesquise no Google ou StackOverflow, bem como na documentação do Java, sobre a sua dúvida. Se depois disso a resposta não estiver clara para você, faça referência das fontes que você consultou parar tirar sua dúvida. Enviar sua dúvida no canal mais adequado também pode facilitar a discussão e resolução.
+
+Uma fonte importante de auxílio importante, é a documentação do oficial do Java. Acesse o link para obter maiores informações: http://docs.oracle.com/javase/8/docs/
 
 Ao fazer e responder perguntas, evite qualquer linguajar imperativo ou impaciente, e seja cordial, afinal estamos todos aqui para nos ajudar!
 
@@ -80,6 +82,7 @@ O Java Dev BR não tem responsabilidade sobre links ou arquivos compartilhados p
 
 A equipe de Admins não tolerará a divulgação de arquivos ou links que:
 * Violem propriedades privadas,
+* Mensagens que tenham como objetivo, constranger ou intimidar um ou mais integrantes do grupo.
 * Contenham _malware_ de qualquer tipo, incluindo mas não limitando a vírus, phishing e scams,
 * Apontem para conteúdos que violem o presente Código de Conduta.
 Quaisquer mensagens que violem os pontos acima serão deletadas pelos Admins sem prévio aviso, causando possíveis sanções ao membro que enviou a mensagem.
