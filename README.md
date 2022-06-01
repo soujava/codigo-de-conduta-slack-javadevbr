@@ -97,7 +97,6 @@ Os canais terminados em **-alerts** (#job-alerts, #channel-alerts) são para men
 A equipe de Admins se reserva o direito de controlar a configuração de bots e integrações, não sendo permitido aos demais membros ativar novas configurações de bots ou integrações. Desta forma, protegemos o grupo da criação de integrações maliciosas ou com propósitos que divergem do Java Dev BR.
 
 Principais estão integrados ao nosso Slack:
-* [Slack Archive Bot](http://slackarchive.io/): Copia todas as mensagens trocadas pelos canais públicos para um arquivo permanente, acessível através do link http://javadevbr.slackarchive.io/.
 * [Paperbot](http://paperbot.ai/): Monitora os links enviados para a geração de um portal web e e-mails de resumo diário. Desta forma, todos os links enviados por nossos membros nos canais públicos podem ser conferidos em [um portal centralizado](web.paperbot.ai). Basta logar com seu usuário do slack para ter acesso à lista de links.
 
 ### Conhecendo o Slack
